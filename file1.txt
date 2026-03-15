@@ -1,2 +1,9 @@
 Hello GitHub.
+<<<<<<< HEAD
 monday i have internals.
+=======
+
+Hi devops.
+>>>>>>> feature1
+
+this line is after merging.
